@@ -1,0 +1,7 @@
+{
+  "name": "Milky Way Explorer",
+  "description": "A real-time interactive 3D Milky Way galaxy simulation controlled by hand gestures using WebGL and MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
