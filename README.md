@@ -1,4 +1,4 @@
-# Inspired by https://www.yjln.com/643.html 
+# Milky Way Explorer
 ## Run Locally
 
 **Prerequisites:**  Node.js
